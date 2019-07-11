@@ -1,3 +1,6 @@
-﻿*** Add references and update to the latest version
-<package id="Microsoft.Azure.Storage.Common" />
+﻿## Add references and update to the latest version
+<package id="Microsoft.Azure.Storage.Common" /> ????
 <package id="Microsoft.Azure.CosmosDB.Table" />
+
+## install/run local table storage emulator
+https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator#start-and-initialize-the-storage-emulator

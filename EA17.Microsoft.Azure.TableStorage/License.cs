@@ -6,7 +6,7 @@ namespace EA17.Microsoft.Azure.TableStorage
     {
         public const string Text =
             "# EA17.Microsoft.Azure.TableStorage\n\n"
-            + "Copyright(C) 2018-2019 Eugene Antonov\n\n"
+            + "Copyright (c) 2018-2019 Eugene Antonov\n\n"
 
             + "This program is free software: you can redistribute it and/or modify\n"
             + "it under the terms of the GNU General Public License as published by\n"
